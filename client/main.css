@@ -1,1 +1,9 @@
 /* CSS declarations go here */
+body{
+    text-align:center;
+    background-image:url("/Backgounds/grunge_wall_@2X.png");
+}
+img{
+    max-width:100%;
+}
+    
